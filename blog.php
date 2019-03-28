@@ -155,9 +155,9 @@
                     <ul>
                         <li><a class="active" href="#">1</a></li>
                         <li><a href="blog2.php">2</a></li>
-                        <li><a href="#">3</a></li>
-                        <li><a href="#">4</a></li>
-                        <li><a href="#">5</a></li>
+                        <li><a href="en_construction.php">3</a></li>
+                        <li><a href="en_construction.php">4</a></li>
+                        <li><a href="en_construction.php">5</a></li>
                     </ul>
                 </div>
             </div>
