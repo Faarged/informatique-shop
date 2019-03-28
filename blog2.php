@@ -103,10 +103,10 @@
             <div class="row">
                 <div class="col-lg-4 col-sm-12 col-12 box-1"  data-aos="fade-right" data-aos-delay="300">
                     <figure class="figure">
-                        <a href="blog.php"><img src="images/tour-pc.jpg" class="figure-img img-fluid" alt="blog"></a>
+                        <a href="blog.php"><img src="images/acer-predator.jpg" class="figure-img img-fluid" alt="blog"></a>
                         <figcaption class="figure-caption">
                             <h2><a href="blog.php">PC gamer</a></h2>
-                            <p>Disposant des dernières technologies permettant l'utilisation stable, rapide et efficace de jeux derniers cri tels que pong en 4K</p>
+                            <p>PC portable meilleur qu'un terra, dont la batterie peut tenir l'arc dressrosa de one piece en intégralité</p>
                             <a href="blog_single.php" class="btn btn-success">+ info</a>
                         </figcaption>
                     </figure>
@@ -115,36 +115,36 @@
                     <div class="row" >
                         <div class="col-sm-6 col-12 box-2">
                             <figure class="figure">
-                                <a href="blog.php"><img src="images/processeur-intel.jpg" class="figure-img img-fluid" alt="blog"></a>
+                                <a href="blog.php"><img src="images/processeur-amd.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-3">
-                            <h4><a href="blog.php">Processeur intel i9</a></h4>
-                            <h5>Dernière génération de processeur de la marque Intel, permettant à votre machine de guerre de garantir une utilisation stable pendant vos marathons dora l'exploratrice. La légende raconte que leur durée de vie permet de voir l'intégralité  de One Piece.</h5>
+                            <h4><a href="blog.php">Processeur amd</a></h4>
+                            <h5>Dernière génération de processeur de la marque AMD, assez efficace pour streamer tout en jouant à worl of warcraft coté horde (les ally ne sont pas acceptés sur notre gamme de produits)</h5>
                             <a href="blog_single.php" class="btn btn-success">+ info</a>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-sm-6 col-12 box-4">
                             <figure class="figure">
-                                <a href="blog.php"><img src="images/ventilo.jpg" class="figure-img img-fluid" alt="blog"></a>
+                                <a href="blog.php"><img src="images/ventilateur.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-5">
-                            <h4><a href="blog.php">Ventilateur avec lumière</a></h4>
-                            <h5>La lumière rouge permet de vérifier le cumul de poussière à l'intérieur de votre machine, qui gardera une haleine fraiche grâce à une ventilation digne d'un vent polaire</h5>
+                            <h4><a href="blog.php">Ventilateur pc</a></h4>
+                            <h5>Bon ventilateur pour votre tour (oui ça marche moins bien si c'est pour vous rafraichier l'été, autant acheter un vrai ventilateur)</h5>
                             <a href="blog_single.php" class="btn btn-success">+ info</a>
                         </div>
                     </div>
                     <div class="row">
                         <div class="col-sm-6 col-12 box-6">
                             <figure class="figure">
-                                <a href="blog.php"><img src="images/maj-cartes-graphiques-dediees-intel-gaming.jpg" class="figure-img img-fluid" alt="blog"></a>
+                                <a href="blog.php"><img src="images/cartes-graphiques-ASUS.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-7">
-                            <h4><a href="blog.php">Carte graphique intel gaming</a></h4>
-                            <h5>Cette carte graphique vous permettra de jouer à  de nombreux jeux tels dofus, fortnite et minecraft en 4k, et permet un affichage parfait des détails de vos films préférés, à vous la possibilité de voir les cheveux blancs de Charle Ingals, la teinte jaune des dents de scarlett johannson ou même le sourcil rebelle de chewbacca</h5>
+                            <h4><a href="blog.php">Carte graphique Asus</a></h4>
+                            <h5>Cette carte graphique vous permettra de profiter de vos nude mod sur vos différents jeux en 4K, à utiliser sans modération</h5>
                             <a href="blog_single.php" class="btn btn-success">+ info</a>
                         </div>
                     </div>
@@ -153,8 +153,8 @@
             <div class="row bt">
                 <div class="col-sm-12">
                     <ul>
-                        <li><a class="active" href="#">1</a></li>
-                        <li><a href="blog2.php">2</a></li>
+                        <li><a class="active" href="blog.php">1</a></li>
+                        <li><a href="#">2</a></li>
                         <li><a href="#">3</a></li>
                         <li><a href="#">4</a></li>
                         <li><a href="#">5</a></li>
