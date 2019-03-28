@@ -58,11 +58,11 @@
                         <a class="nav-link" href="about.php">A propos</a>
                     </li>-->
                     <li class="nav-item">
-                        <a class="nav-link" href="portfolio.php">Portfolio</a>
+                        <a class="nav-link" href="portfolio.php">Nouveautés</a>
                     </li>
-                    <li class="nav-item">
+                    <!--<li class="nav-item">
                         <a class="nav-link" href="services.php">Services</a>
-                    </li>
+                    </li>-->
                     <li class="nav-item">
                         <a class="nav-link" href="contact.php">Contact</a>
                     </li>

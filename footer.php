@@ -28,11 +28,11 @@
                     <li>
                         <a href="index.php">Accueil</a>
                     </li>
-                    <li>
+                  <!--  <li>
                         <a href="services.php">services</a>
-                    </li>
+                    </li>-->
                     <li>
-                        <a href="portfolio.php">portfolio</a>
+                        <a href="portfolio.php">Nouveautés</a>
                     </li>
                     <li>
                         <a href="blog.php">Lire les articles</a>
@@ -40,9 +40,9 @@
                     <li>
                         <a href="contact.php">Nous contacter</a>
                     </li>
-                    <li>
+                    <!--<li>
                         <a href="contact.php">Support</a>
-                    </li>
+                    </li>-->
                 </ul>
 
             </div>
