@@ -33,10 +33,10 @@
                 </div>
                 <div class="col-sm-4 align-self-center text-right">
                     <div class="social-icons">
-                        <a href="#"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
-                        <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+                        <a href="https://fr-fr.facebook.com/ecoledescodeurs/"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
+                        <a href="https://twitter.com/simplon08?lang=fr"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                         <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-                        <a href="#"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+                        <a href="https://www.youtube.com/channel/UCTFYd2sOfjrJH1C421UyYuQ"><i class="fa fa-youtube" aria-hidden="true"></i></a>
                     </div>
                 </div>
             </div>
