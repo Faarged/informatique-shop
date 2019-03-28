@@ -120,7 +120,7 @@
                         </div>
                         <div class="col-sm-6 col-12 box-3">
                             <h4><a href="blog.php">Processeur amd</a></h4>
-                            <h5>Dernière génération de processeur de la marque AMD, assez efficace pour streamer tout en jouant à worl of warcraft coté horde (les ally ne sont pas acceptés sur notre gamme de produits)</h5>
+                            <h5>Dernière génération de processeur de la marque AMD, assez efficace pour streamer tout en jouant à world of warcraft coté horde (les ally ne sont pas acceptés sur notre gamme de produits)</h5>
                             <a href="blog_single.php" class="btn btn-success">+ info</a>
                         </div>
                     </div>
