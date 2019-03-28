@@ -14,7 +14,7 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/main.css">
 
-    <title>Index</title>
+    <title>info shop</title>
 </head>
 
 <body>
