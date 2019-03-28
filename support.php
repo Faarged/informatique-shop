@@ -34,7 +34,7 @@
                     <div class="social-icons">
                         <a href="https://fr-fr.facebook.com/ecoledescodeurs/"><i class="fa fa-facebook-official" aria-hidden="true"></i></a>
                         <a href="https://twitter.com/simplon08?lang=fr"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                        <a href="https://github.com/SimplonCharleville"><i class="fab fa-github"></i></a>
+                        <a href="https://github.com/SimplonCharleville"><i class="fa fa-github" aria-hidden="true"></i></a>
                         <a href="https://www.youtube.com/channel/UCTFYd2sOfjrJH1C421UyYuQ"><i class="fa fa-youtube" aria-hidden="true"></i></a>
                     </div>
                 </div>
