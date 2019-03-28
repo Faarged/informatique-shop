@@ -132,7 +132,7 @@
                         </div>
                         <div class="col-sm-6 col-12 box-5">
                             <h4><a href="blog.php">Ventilateur pc</a></h4>
-                            <h5>Bon ventilateur pour votre tour (oui ça marche moins bien si c'est pour vous rafraichier l'été, autant acheter un vrai ventilateur)</h5>
+                            <h5>Bon ventilateur pour votre tour (oui ça marche moins bien si c'est pour vous rafraichir l'été, autant acheter un vrai ventilateur)</h5>
                             <a href="blog_single.php" class="btn btn-success">+ info</a>
                         </div>
                     </div>
@@ -144,7 +144,7 @@
                         </div>
                         <div class="col-sm-6 col-12 box-7">
                             <h4><a href="blog.php">Carte graphique Asus</a></h4>
-                            <h5>Cette carte graphique vous permettra de profiter de vos nude mod sur vos différents jeux en 4K, à utiliser sans modération</h5>
+                            <h5>Cette carte graphique vous permettra de profiter de vos nude mods sur vos différents jeux en 4K, à utiliser sans modération</h5>
                             <a href="blog_single.php" class="btn btn-success">+ info</a>
                         </div>
                     </div>
