@@ -139,7 +139,7 @@
                     <div class="row">
                         <div class="col-sm-6 col-12 box-6">
                             <figure class="figure">
-                                <a href="blog.php"><img src="images/cartes-graphiques-ASUS.jpg" class="figure-img img-fluid" alt="blog"></a>
+                                <a href="blog.php"><img src="images/cartes-graphiques-Asus.jpg" class="figure-img img-fluid" alt="blog"></a>
                             </figure>
                         </div>
                         <div class="col-sm-6 col-12 box-7">
