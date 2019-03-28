@@ -26,7 +26,7 @@
         <div class="container text-white">
             <div class="row">
                 <div class="col-sm-4 align-self-center text-left">
-                    <h6>Simplon technologie</h6>
+                    <h6>Simplon Technologie</h6>
                 </div>
                 <div class="col-sm-4 col-12 align-self-center box-1 text-center">
                     <a class="navbar-brand" href="index.php"><img src="images/simplon.png" alt="logo"></a>
