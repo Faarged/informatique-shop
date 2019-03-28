@@ -54,7 +54,7 @@
             <div class="col-lg-2 col-sm-4 box-3 mx-auto">
 
                 <!-- Links -->
-                <h5>information</h5>
+                <h5>informations</h5>
 
                 <ul class="list-unstyled">
                     <li>
@@ -83,7 +83,7 @@
             <div class="col-lg-2 col-sm-4 box-4 mx-auto">
 
                 <!-- Links -->
-                <h5>Politiques & Info</h5>
+                <h5>CGU & Info</h5>
 
                 <ul class="list-unstyled">
                     <li>
