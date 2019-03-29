@@ -28,9 +28,7 @@
                     <li>
                         <a href="index.php">Accueil</a>
                     </li>
-                  <!--  <li>
-                        <a href="services.php">services</a>
-                    </li>-->
+
                     <li>
                         <a href="portfolio.php">Nouveautés</a>
                     </li>
@@ -40,9 +38,7 @@
                     <li>
                         <a href="contact.php">Nous contacter</a>
                     </li>
-                    <!--<li>
-                        <a href="contact.php">Support</a>
-                    </li>-->
+                  
                 </ul>
 
             </div>

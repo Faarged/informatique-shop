@@ -56,21 +56,15 @@
                     <li class="nav-item">
                         <a class="nav-link" href="index.php">Accueil</a>
                     </li>
-                    <!--<li class="nav-item">
-                        <a class="nav-link" href="about.php">A propos</a>
-                    </li>-->
+
                     <li class="nav-item active">
                         <a class="nav-link" href="portfolio.php">Nouveautés</a>
                     </li>
-                    <!--<li class="nav-item">
-                        <a class="nav-link" href="services.php">Services</a>
-                    </li>-->
+
                     <li class="nav-item">
                         <a class="nav-link" href="contact.php">Contact</a>
                     </li>
-                    <!--<li class="nav-item">
-                        <a class="nav-link" href="contact.php">Support</a>
-                    </li>-->
+
                     <li class="nav-item">
                         <a class="nav-link" href="blog.php">Articles</a>
                     </li>
@@ -194,9 +188,7 @@
                 </a>
             </div>
             <!--/row-->
-            <!--<div class="load-more">
-                <button type="button" class="btn btn-secondary">load more</button>
-            </div>-->
+            
         </div>
         <!--container-->
     </section>
