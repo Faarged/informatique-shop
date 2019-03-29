@@ -92,11 +92,9 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-12">
-
         <div class="slider">
                               <video  autoplay nocontrols loop>
                                 <source src="http://iwantfishing.com/images/vid.mp4" type="video/mp4">
-
                               </video>
 
 
@@ -285,7 +283,7 @@
         </div>
         <!--container-->
     </section>
-    
+
     <section class="section-7">
         <!-- Footer -->
         <?php include 'footer.php'; ?>
