@@ -111,7 +111,7 @@
                           <input type="text" class="form-control" placeholder="Email" required>
                       </div>
                       <div class="col-sm-12">
-                          <input type="number" class="form-control" placeholder="Numéro de téléphone(si vous voulez qu'on puisse le vendre)" required>
+                          <input type="tel" class="form-control" placeholder="Numéro de téléphone(si vous voulez qu'on puisse le vendre)" required>
                       </div>
                   </div>
                   <div class="form-group row">
