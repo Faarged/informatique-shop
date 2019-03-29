@@ -1,5 +1,5 @@
 <!doctype html>
-<html lang="en">
+<html>
 
 <head>
     <!-- Required meta tags -->
@@ -7,14 +7,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/bootstrap.css" >
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css">
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/slider.css">
 
-    <title>info shop</title>
+    <title>Index</title>
 </head>
 
 <body>
@@ -74,19 +76,91 @@
         </div>
         <!--container end-->
     </nav>
-    <!--Section-1--> <!--
+    <!--Section-1-->
     <section class="section-1">
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
             <div class="container-fluid content">
-                <h1 data-aos="fade-up" data-aos-delay="100">Welcome to more.</h1>
-                <h2 data-aos="fade-up" data-aos-delay="300">the multipurpose psd wordrpess theme</h2>
-                <h4 data-aos="fade-up" data-aos-delay="500">Getup and rise, for the new chapter of your life</h4>
-                <p data-aos="fade-up" data-aos-delay="700"><a href="about.php" class="btn btn-success">Get Started</a></p>
-            </div> -->
-            <!--container-fluid end--> <!--
+                <h1 data-aos="fade-up" data-aos-delay="100">Binevenue chez Simplon technologie</h1>
+                <h2 data-aos="fade-up" data-aos-delay="300">le site de référencement des nouvelles technologies</h2>
+                <h4 data-aos="fade-up" data-aos-delay="500">Nous vous souhaitons une bonne visite</h4>
+
+            </div>
+            <!--container-fluid end-->
         </div>
-    </section> -->
+    </section>
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-12">
+
+        <div class="slider">
+                              <video  autoplay nocontrols loop>
+                                <source src="http://iwantfishing.com/images/vid.mp4" type="video/mp4">
+
+                              </video>
+
+
+            <!-- Slider de presentation de matériel informatique-->
+
+            <div class="presentation-carousel">
+                <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" >
+
+                    <!--Indicateur du slider-->
+
+                    <ol class="carousel-indicators">
+                        <li data-target="#carouselExampleFade" data-slide-to="0" class="active"></li>
+                        <li data-target="#carouselExampleFade" data-slide-to="1"></li>
+                        <li data-target="#carouselExampleFade" data-slide-to="2"></li>
+                        <li data-target="#carouselExampleFade" data-slide-to="3"></li>
+                    </ol>
+
+                    <!--Slider avec indicateur d'image-->
+
+                    <div class="carousel-inner">
+                        <div class="carousel-item active">
+                             <img src="images/ecran.png "  width="460" height="450" alt="ecran-pc">
+                            <div class="carousel-caption">
+                               <a href="portfolio.php"> <h4 class="title">Ecran PC</h4></a>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/mixstockage.png"  width="460" height="450" alt-="stockage">
+                            <div class="carousel-caption">
+                                <a href="portfolio.php"><h4 class="title">UNITE DE STOCKAGE</h4></a>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/processeur.png"  width="460" height="450" alt="processeur">
+                            <div class="carousel-caption">
+                                <a href="portfolio.php"><h4 class="title">PROCESSEUR</h4></a>
+                            </div>
+                        </div>
+                        <div class="carousel-item">
+                            <img src="images/cartemerememoire.png"  width="460" height="450" alt="carte-mere-memoire">
+                            <div class="carousel-caption">
+                                <a href="portfolio.php"><h4 class="title">CARTE MERE ET MEMOIRE</h4></a>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!--Controle du slider-->
+
+                    <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+                 </div>
+                 </div>
+            </div>
+        </div>
+
+      </div> <!-- fin col-->
+      </div> <!--fin row-->
+      </div> <!-- fin container fluid-->
     <!--nouveauté-->
     <section class="section-5">
         <div class="container">
