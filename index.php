@@ -81,7 +81,7 @@
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
             <div class="container-fluid content">
-                <h1 data-aos="fade-up" data-aos-delay="100">Binevenue chez Simplon technologie</h1>
+                <h1 data-aos="fade-up" data-aos-delay="100">Bienvenue chez Simplon technologie</h1>
                 <h2 data-aos="fade-up" data-aos-delay="300">le site de référencement des nouvelles technologies</h2>
                 <h4 data-aos="fade-up" data-aos-delay="500">Nous vous souhaitons une bonne visite</h4>
 
