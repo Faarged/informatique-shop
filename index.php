@@ -219,78 +219,13 @@
 
         </div>
     </section>
-    <!--nouveauté fin-->
-    <!--Section-2--> <!--
-    <section class="section-2">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-sm-12 col-12 box-1">
-                    <div class="row box" data-aos="fade-left" data-aos-delay="300">
-                        <div class="col-lg-2 col-sm-12">
-                            <i class="fa fa-desktop" aria-hidden="true"></i>
-                        </div>
-                        <div class="col-lg-10 col-sm-12">
-                            <h3><a href="services.php">design.</a></h3>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's printer took a galley of type and</p>
-                            <p><a href="services.php"><img src="images/plus.png" alt="plus"></a></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-12 col-12 box-2">
-                    <div class="row box" data-aos="fade-left" data-aos-delay="500">
-                        <div class="col-lg-2 col-sm-12">
-                            <i class="fa fa-code" aria-hidden="true"></i>
-                        </div>
-                        <div class="col-lg-10 col-sm-12">
-                            <h3><a href="services.php">coding.</a></h3>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's printer took a galley of type and</p>
-                            <p><a href="services.php"><img src="images/plus.png" alt="plus"></a></p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-sm-12 col-12 box-3">
-                    <div class="row box" data-aos="fade-left" data-aos-delay="700">
-                        <div class="col-lg-2 col-sm-12">
-                            <i class="fa fa-comments-o" aria-hidden="true"></i>
-                        </div>
-                        <div class="col-lg-10 col-sm-12">
-                            <h3><a href="services.php">support.</a></h3>
-                            <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's printer took a galley of type and</p>
-                            <p><a href="services.php"><img src="images/plus.png" alt="plus"></a></p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section> --><!--
-    <section class="section-3">
-        <div class="container">
-            <div class="row m-0">
-                <div class="col-lg-5 col-md-12 p-0" data-aos="fade-right" data-aos-delay="300">
-                    <h2>What we do <span>And why select us?</span></h2>
-                    <ul>
-                        <li><a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Web Designing</a> </li>
-                        <li><a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Corporate Identity</a></li>
-                        <li><a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Domain Names</a></li>
-                        <li><a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Wordpress Development</a></li>
-                        <li><a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Logo Design</a></li>
-                        <li><a href="services.php"><i class="fa fa-angle-right" aria-hidden="true"></i>Photography</a></li>
-                    </ul>
-                </div>
-                <div class="col-lg-7 col-md-12 p-0" data-aos="fade-left" data-aos-delay="300">
-                    <figure>
-                        <img class="inner-img" src="images/services-bg2.jpg" alt="services">
-                        <img class="out-sideimg" src="images/services-bg.jpg" alt="services">
-                    </figure>
-                </div>
-            </div>
-        </div>
-    </section> -->
+
+
     <section class="section-4">
         <div class="container">
             <div class="row heading">
                 <div class="col-sm-6 col-12">
-                    <h3>Lisez nos articles<span>Nous décrivons beaucoup de produit</span></h3>
+                    <h3>Lisez nos articles<span>Nous décrivons beaucoup de produits</span></h3>
                 </div>
                 <div class="col-sm-6 col-12">
                     <a href="blog.php" class="btn btn-success">Voir l'intégralité des articles</a>
@@ -350,74 +285,7 @@
         </div>
         <!--container-->
     </section>
-    <!--Section-5--> <!--
-    <section class="section-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-7 col-sm-8">
-                    <h3>Check our portfolio <span>view some of the best works...</span></h3>
-                </div>
-                <div class="col-lg-5 col-sm-4">
-                    <a href="portfolio.php" class="btn btn-success">Read our portfolio</a>
-                </div>
-            </div>
-        </div>
-        <div class="container-fluid">
-            <div class="row"  data-aos="fade-up" data-aos-delay="300">
-                <a href="images/portfolio-2.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box">
-                  <img src="images/portfolio-2.jpg" class="img-fluid">
-                  <div class="overlay">
-                  <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>beautiful beach <span>top view</span></h4></div>
-                  </div>
-                </a>
-                <a href="images/portfolio-3.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box">
-                  <img src="images/portfolio-3.jpg" class="img-fluid">
-                  <div class="overlay">
-                  <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>beautiful beach <span>top view</span></h4></div>
-                  </div>
-                </a>
-                <a href="images/portfolio-4.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box">
-                  <img src="images/portfolio-4.jpg" class="img-fluid">
-                  <div class="overlay">
-                  <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>beautiful beach <span>top view</span></h4></div>
-                  </div>
-                </a>
-                <a href="images/portfolio-5.jpg" data-toggle="lightbox" data-gallery="example-gallery" class="col-sm-3 box">
-                  <img src="images/portfolio-5.jpg" class="img-fluid">
-                  <div class="overlay">
-                  <img src="images/plus-img.png" alt="plus-icon">
-                  <div class="inner-text"><h4>beautiful beach <span>top view</span></h4></div>
-                  </div>
-                </a>
-            </div> -->
-            <!--/row--><!--
-        </div> -->
-        <!--container-->
-    <!-- </section> -->
-    <!-- <section class="section-6" data-aos="fade-up">
-        <div class="container"> -->
-            <!-- Grid row-->
-          <!--  <div class="row main" data-aos="fade-up" data-aos-delay="300"> -->
-                <!-- Grid column -->
-                <!--<div class="col-lg-6 col-sm-12 col1">
-                    <div class="heading">
-                        <h3>Subscribe to Newsletter</h3>
-                    </div>
-                </div>
-                <div class="col-lg-6 col-sm-12 col1">
-                    <form>
-                        <div class="input-group">
-                            <input name="email" id="email" type="email" placeholder="Enter your email id" required>
-                            <button class="btn btn-info" type="submit">Subscribe</button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </section> -->
+    
     <section class="section-7">
         <!-- Footer -->
         <?php include 'footer.php'; ?>
