@@ -2,11 +2,11 @@
 <html>
 
 <head>
-    <!-- Required meta tags -->
+    <!-- Metatags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
-    <!-- Bootstrap CSS -->
+    <!-- /Metatags -->
+    <!-- Liens CSS -->
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/bootstrap.css" >
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" rel="stylesheet">
@@ -15,13 +15,15 @@
     <link rel="stylesheet" href="css/animate.css">
     <link rel="stylesheet" href="css/main.css">
     <link rel="stylesheet" href="css/slider.css">
-
+    <!-- /Liens CSS -->
     <title>Index</title>
 </head>
 
 <body>
     <header class="header bg">
+        <!-- debut container-->
         <div class="container text-white">
+            <!-- debut row -->
             <div class="row">
                 <div class="col-sm-4 align-self-center text-left">
                     <h6>Simplon technologie</h6>
@@ -38,12 +40,14 @@
                     </div>
                 </div>
             </div>
-            <!--/row-->
+            <!-- fin row -->
         </div>
-        <!--container-->
+        <!-- fin container -->
     </header>
     <span class="position-absolute trigger"><!-- hidden trigger to apply 'stuck' styles --></span>
+    <!--nav-bar-->
     <nav class="navbar navbar-expand-sm sticky-top navbar-dark">
+        <!-- debut container -->
         <div class="container">
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbar1">
             <span class="navbar-toggler-icon"></span>
@@ -53,112 +57,106 @@
                     <li class="nav-item active">
                         <a class="nav-link active" href="index.php">Accueil</a>
                     </li>
-                    <!--<li class="nav-item">
-                        <a class="nav-link" href="about.php">A propos</a>
-                    </li>-->
                     <li class="nav-item">
                         <a class="nav-link" href="portfolio.php">Nouveautés</a>
                     </li>
-                    <!--<li class="nav-item">
-                        <a class="nav-link" href="services.php">Services</a>
-                    </li>-->
                     <li class="nav-item">
                         <a class="nav-link" href="contact.php">Contact</a>
                     </li>
-                    <!--<li class="nav-item">
-                        <a class="nav-link" href="contact.php">Support</a>
-                    </li>-->
                     <li class="nav-item">
                         <a class="nav-link" href="blog.php">Articles</a>
                     </li>
                 </ul>
             </div>
         </div>
-        <!--container end-->
+        <!-- fin container -->
     </nav>
+    <!-- fin nav-bar -->
+
     <!--Section-1-->
     <section class="section-1">
         <div class="jumbotron d-flex align-items-center">
             <div class="gradient"></div>
+            <!-- debut container-fluid content --> 
             <div class="container-fluid content">
                 <h1 data-aos="fade-up" data-aos-delay="100">Bienvenue chez Simplon technologie</h1>
                 <h2 data-aos="fade-up" data-aos-delay="300">le site de référencement des nouvelles technologies</h2>
                 <h4 data-aos="fade-up" data-aos-delay="500">Nous vous souhaitons une bonne visite</h4>
-
             </div>
-            <!--container-fluid end-->
+            <!-- fin container-fluid content -->
         </div>
     </section>
+    <!-- fin section 1 -->
+
+    <!-- debut container-fluid -->
     <div class="container-fluid">
       <div class="row">
         <div class="col-sm-12">
-        <div class="slider">
-                              <video  autoplay nocontrols loop>
-                                <source src="http://iwantfishing.com/images/vid.mp4" type="video/mp4">
-                              </video>
-
-
+         <div class="slider">
+            <video  autoplay nocontrols loop>
+                <source src="http://iwantfishing.com/images/vid.mp4" type="video/mp4">
+            </video>
+  
             <!-- Slider de presentation de matériel informatique-->
 
             <div class="presentation-carousel">
-                <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" >
+              <div id="carouselExampleFade" class="carousel slide carousel-fade" data-ride="carousel" >
 
-                    <!--Indicateur du slider-->
+                <!--Indicateur du slider-->
 
-                    <ol class="carousel-indicators">
-                        <li data-target="#carouselExampleFade" data-slide-to="0" class="active"></li>
-                        <li data-target="#carouselExampleFade" data-slide-to="1"></li>
-                        <li data-target="#carouselExampleFade" data-slide-to="2"></li>
-                        <li data-target="#carouselExampleFade" data-slide-to="3"></li>
-                    </ol>
+                  <ol class="carousel-indicators">
+                    <li data-target="#carouselExampleFade" data-slide-to="0" class="active"></li>
+                    <li data-target="#carouselExampleFade" data-slide-to="1"></li>
+                    <li data-target="#carouselExampleFade" data-slide-to="2"></li>
+                    <li data-target="#carouselExampleFade" data-slide-to="3"></li>
+                  </ol>
 
-                    <!--Slider avec indicateur d'image-->
+                <!--Slider avec indicateur d'image-->
 
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                             <img src="images/ecran.png "  width="460" height="450" alt="ecran-pc">
-                            <div class="carousel-caption">
-                               <a href="portfolio.php"> <h4 class="title">Ecran PC</h4></a>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <img src="images/mixstockage.png"  width="460" height="450" alt-="stockage">
-                            <div class="carousel-caption">
-                                <a href="portfolio.php"><h4 class="title">UNITE DE STOCKAGE</h4></a>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <img src="images/processeur.png"  width="460" height="450" alt="processeur">
-                            <div class="carousel-caption">
-                                <a href="portfolio.php"><h4 class="title">PROCESSEUR</h4></a>
-                            </div>
-                        </div>
-                        <div class="carousel-item">
-                            <img src="images/cartemerememoire.png"  width="460" height="450" alt="carte-mere-memoire">
-                            <div class="carousel-caption">
-                                <a href="portfolio.php"><h4 class="title">CARTE MERE ET MEMOIRE</h4></a>
-                            </div>
+                  <div class="carousel-inner">
+                    <div class="carousel-item active">
+                      <img src="images/ecran.png "  width="460" height="450" alt="ecran-pc">
+                        <div class="carousel-caption">
+                          <a href="portfolio.php"> <h4 class="title">Ecran PC</h4></a>
                         </div>
                     </div>
+                    <div class="carousel-item">
+                      <img src="images/mixstockage.png"  width="460" height="450" alt-="stockage">
+                        <div class="carousel-caption">
+                          <a href="portfolio.php"><h4 class="title">UNITE DE STOCKAGE</h4></a>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                      <img src="images/processeur.png"  width="460" height="450" alt="processeur">
+                        <div class="carousel-caption">
+                          <a href="portfolio.php"><h4 class="title">PROCESSEUR</h4></a>
+                        </div>
+                    </div>
+                    <div class="carousel-item">
+                      <img src="images/cartemerememoire.png"  width="460" height="450" alt="carte-mere-memoire">
+                        <div class="carousel-caption">
+                          <a href="portfolio.php"><h4 class="title">CARTE MERE ET MEMOIRE</h4></a>
+                        </div>
+                    </div>
+                  </div>
 
-                    <!--Controle du slider-->
+                <!--Controle du slider-->
 
-                    <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Previous</span>
-                    </a>
-                    <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
-                    </a>
-                 </div>
-                 </div>
+                  <a class="carousel-control-prev" href="#carouselExampleFade" role="button" data-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Previous</span>
+                  </a>
+                  <a class="carousel-control-next" href="#carouselExampleFade" role="button" data-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="sr-only">Next</span>
+                  </a>
+                </div>
+              </div>
             </div>
-        </div>
-
-      </div> <!-- fin col-->
+          </div>
+        </div> <!-- fin col-->
       </div> <!--fin row-->
-      </div> <!-- fin container fluid-->
+    </div> <!-- fin container fluid-->
     <!--nouveauté-->
     <section class="section-5">
         <div class="container">
